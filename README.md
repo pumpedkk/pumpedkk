@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" width="99.9%" alt="Lucas Valverde: Game Developer · Unity · Godot"></p>
+
 <p align="center"><a href="https://pumpedkk.itch.io/"><img src="assets/editor.svg" width="99.9%" align="top" alt="Meus jogos dentro de um editor de jogo, trocando a cada 5 segundos"></a><br><img src="assets/project-tree.svg" width="19.980%" align="top" alt="Pastas"><a href="https://uupedrin.itch.io/demissao-suja"><img src="assets/cover-demissao-suja.svg" width="11.988%" align="top" alt="Demissão Suja"></a><a href="https://uupedrin.itch.io/late-night-sandwich"><img src="assets/cover-sanduiche-da-meia-noite.svg" width="11.988%" align="top" alt="Sanduíche da Meia-Noite"></a><a href="https://uupedrin.itch.io/unframed"><img src="assets/cover-unframed.svg" width="11.988%" align="top" alt="Unframed"></a><a href="https://pumpedkk.itch.io/misterjhonny"><img src="assets/cover-misterjhonny.svg" width="11.988%" align="top" alt="MisterJhonny"></a><img src="assets/filler.svg" width="31.968%" align="top" alt=""></p>
 
 <p align="center">
