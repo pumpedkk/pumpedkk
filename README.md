@@ -1,1 +1,8 @@
-<img width="150" height="150" alt="el-gato-piloto-cat" src="https://github.com/user-attachments/assets/f816e104-102b-4972-a1aa-ff071b1e2faa" />
+<p><img src="assets/toolbar.svg" width="99.9%" align="top" alt="Barra de ferramentas"><br><img src="assets/hierarchy-home.svg" width="23%" align="top" alt="Hierarchy: equipe"><img src="assets/game-home.svg" width="49.9%" align="top" alt="Game"><img src="assets/inspector-home.svg" width="27%" align="top" alt="Inspector"><br><img src="assets/tab-project.svg" width="99.9%" align="top" alt="Project"><br><img src="assets/project-tree.svg" width="20%" align="top" alt="Pastas"><a href="README.md"><img src="assets/scene-icon-bootstrap-sel.svg" width="8%" align="top" alt="Cena BootStrap"></a><a href="games/demissao-suja/README.md"><img src="assets/scene-icon-demissao-suja.svg" width="8%" align="top" alt="Cena Demissão Suja"></a><a href="games/sanduiche-da-meia-noite/README.md"><img src="assets/scene-icon-sanduiche-da-meia-noite.svg" width="8%" align="top" alt="Cena Sanduíche da Meia-Noite"></a><a href="games/unframed/README.md"><img src="assets/scene-icon-unframed.svg" width="8%" align="top" alt="Cena Unframed"></a><a href="games/misterjhonny/README.md"><img src="assets/scene-icon-misterjhonny.svg" width="8%" align="top" alt="Cena MisterJhonny"></a><img src="assets/filler.svg" width="39.9%" align="top" alt=""></p>
+
+<p align="center"><sub>Clique numa cena do <b>Project</b> para abrir o jogo</sub></p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lucas-valverde-866053269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://pumpedkk.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
+</p>
